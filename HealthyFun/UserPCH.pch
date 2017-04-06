@@ -1,0 +1,18 @@
+//
+//  UserPCh.pch
+//  HealthyFun
+//
+//  Created by Shin on 2017/3/24.
+//  Copyright © 2017年 Shin. All rights reserved.
+//
+
+#ifndef UserPCh_pch
+#define UserPCh_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* UserPCh_pch */
+
+//主题绿色
+#define Main_GreenColor [UIColor colorWithRed:0.43 green:0.75 blue:0.49 alpha:1.0]
